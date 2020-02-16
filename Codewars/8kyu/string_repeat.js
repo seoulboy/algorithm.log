@@ -8,7 +8,7 @@ repeatStr(5, "Hello") // "HelloHelloHelloHelloHello"
 
 */
 
-// First Attemp
+// First Attempt Feb 2019
 
 function repeatStr(n, s) {
 	let i = 0;
@@ -20,7 +20,7 @@ function repeatStr(n, s) {
 	return str;
 }
 
-// New Attemp
+// New Attempt Feb 2020
 
 function repeatStr(n, s) {
 	let str = '';
