@@ -22,3 +22,4 @@
   17. [convert_boolean_value_to_strings_yes_or_no](Codewars/8kyu/convert_boolean_value_to_strings_yes_or_no.js)
   18. [convert_a_number_to_a_string](Codewars/8kyu/convert_a_number_to_a_string.js)
   19. [count_of_positive_sum_of_negatives](Codewars/8kyu/count_of_positive_sum_of_negatives.js)
+  20. [sum_without_highest_and_lowest_number](Codewars/8kyu/sum_without_highest_and_lowest_number.js)
