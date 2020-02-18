@@ -18,3 +18,4 @@
   13. [remove_string_spaces](Codewars/8kyu/remove_string_spaces.js)
   14. [counting_sheep](Codewars/8kyu/counting_sheep.js)
   15. [basic_mathematical_operations](Codewars/8kyu/basic_mathematical_operations.js)
+  16. [grasshopper_summation](Codewars/8kyu/grasshopper_summation.js)
