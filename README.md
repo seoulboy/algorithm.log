@@ -20,3 +20,5 @@
   15. [basic_mathematical_operations](Codewars/8kyu/basic_mathematical_operations.js)
   16. [grasshopper_summation](Codewars/8kyu/grasshopper_summation.js)
   17. [convert_boolean_value_to_strings_yes_or_no](Codewars/8kyu/convert_boolean_value_to_strings_yes_or_no.js)
+  18. [convert_a_number_to_a_string](Codewars/8kyu/convert_a_number_to_a_string.js)
+  19. [count_of_positive_sum_of_negatives](Codewars/8kyu/count_of_positive_sum_of_negatives.js)
