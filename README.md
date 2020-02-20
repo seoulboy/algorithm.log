@@ -34,3 +34,4 @@
   29. [find_maximum_and_minimum_values_of_a_list](find_maximum_and_minimum_values_of_a_list.js)
   30. [rock_paper_scissors](Codewars/8kyu/rock_paper_scissors.js)
   31. [invert_values](Codewars/8kyu/invert_values.js)
+  32. [fake_binary](Codewars/8kyu/fake_binary.js)
