@@ -31,3 +31,4 @@
   26. [is_n_divisible_by_x_and_y](Codewars/8kyu/is_n_divisible_by_x_and_y.js)
   27. [century_from_year](Codewars/8kyu/century_from_year.js)
   28. [reversed_strings](Codewars/8kyu/reversed_strings.js)
+  29. [find_maximum_and_minimum_values_of_a_list](find_maximum_and_minimum_values_of_a_list.js)
