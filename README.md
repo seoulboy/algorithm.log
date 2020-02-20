@@ -32,3 +32,4 @@
   27. [century_from_year](Codewars/8kyu/century_from_year.js)
   28. [reversed_strings](Codewars/8kyu/reversed_strings.js)
   29. [find_maximum_and_minimum_values_of_a_list](find_maximum_and_minimum_values_of_a_list.js)
+  30. [rock_paper_scissors](Codewars/8kyu/rock_paper_scissors.js)
