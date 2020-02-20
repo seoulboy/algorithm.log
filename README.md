@@ -23,3 +23,4 @@
   18. [convert_a_number_to_a_string](Codewars/8kyu/convert_a_number_to_a_string.js)
   19. [count_of_positive_sum_of_negatives](Codewars/8kyu/count_of_positive_sum_of_negatives.js)
   20. [sum_without_highest_and_lowest_number](Codewars/8kyu/sum_without_highest_and_lowest_number.js)
+  21. [convert_number_to_reversed_array_of_digits](Codewars/8kyu/convert_number_to_reversed_array_of_digits.js)
