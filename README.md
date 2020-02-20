@@ -25,3 +25,4 @@
   20. [sum_without_highest_and_lowest_number](Codewars/8kyu/sum_without_highest_and_lowest_number.js)
   21. [convert_number_to_reversed_array_of_digits](Codewars/8kyu/convert_number_to_reversed_array_of_digits.js)
   22. [a_needle_in_the_haystack](Codewar/8kyu/a_needle_in_the_haystack.js)
+  23. [jenny's_secret_message](Codewars/8kyu/jenny's_secret_message.js)
