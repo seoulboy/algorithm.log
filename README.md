@@ -28,3 +28,4 @@
   23. [jenny's_secret_message](Codewars/8kyu/jenny's_secret_message.js)
   24. [keep_hydrated](Codewars/8kyu/keep_hydrated.js)
   25. [calculate_average](Codewars/8kyu/calculate_average.js)
+  26. [is_n_divisible_by_x_and_y](Codewars/8kyu/is_n_divisible_by_x_and_y.js)
