@@ -37,3 +37,4 @@
   32. [fake_binary](Codewars/8kyu/fake_binary.js)
   33. [square_n_sum](Codewars/8kyu/square_n_sum.js)
   34. [double_char](Codewars/8kyu/double_char.js)
+  35. [abbreviate_a_two_word_name](Codewars/8kyu/abbreviate_a_two_word_name)
