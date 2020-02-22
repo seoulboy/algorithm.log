@@ -36,3 +36,4 @@
   31. [invert_values](Codewars/8kyu/invert_values.js)
   32. [fake_binary](Codewars/8kyu/fake_binary.js)
   33. [square_n_sum](Codewars/8kyu/square_n_sum.js)
+  34. [double_char](Codewars/8kyu/double_char.js)
