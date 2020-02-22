@@ -39,3 +39,7 @@
   34. [double_char](Codewars/8kyu/double_char.js)
   35. [abbreviate_a_two_word_name](Codewars/8kyu/abbreviate_a_two_word_name.js)
   36. [reversed_sequence](Codewars/8kyu/reversed_sequence.js)
+
+#### 7kyu
+
+  37. [rithm_series_frame_a_phrase_simple](Codewars/7kyu/rithm_series_frame_a_phrase_simple.js)
