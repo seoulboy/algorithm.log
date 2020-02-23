@@ -43,3 +43,4 @@
 #### 7kyu
 
   37. [rithm_series_frame_a_phrase_simple](Codewars/7kyu/rithm_series_frame_a_phrase_simple.js)
+  38. [mumbling](Codewars/7kyu/mumbling.js)
