@@ -48,3 +48,4 @@
   40. [vowel_count](Codewars/7kyu/vowel_count.js)
   41. [highest_and_lowest](Codewars/7kyu/hightest_and_lowest.js)
   42. [shortest_word](Codewars/7kyu/shortest_word.js)
+  43. [complementary_dna](Codewars/7kyu/complementary_dna.js)
