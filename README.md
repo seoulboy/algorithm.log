@@ -44,3 +44,4 @@
 
   37. [rithm_series_frame_a_phrase_simple](Codewars/7kyu/rithm_series_frame_a_phrase_simple.js)
   38. [mumbling](Codewars/7kyu/mumbling.js)
+  39. [get_the_middle_character](Codewars/7kyu/get_the_middle_character.js)
