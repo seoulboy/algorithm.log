@@ -47,3 +47,4 @@
   39. [get_the_middle_character](Codewars/7kyu/get_the_middle_character.js)
   40. [vowel_count](Codewars/7kyu/vowel_count.js)
   41. [highest_and_lowest](Codewars/7kyu/hightest_and_lowest.js)
+  42. [shortest_word](Codewars/7kyu/shortest_word.js)
