@@ -3,7 +3,7 @@
 ### CodeWars
 
 #### 8kyu
-  1. [mulitply](Codewars/8kyu/multiply.js)
+  1. [multiply](Codewars/8kyu/multiply.js)
   2. [total_amount_of_points](Codewars/8kyu/total_amount_of_points.js)
   3. [opposite_number](Codewars/8kyu/opposite_number.js)
   4. [welcome](Codewars/8kyu/welcome.js)
