@@ -55,3 +55,4 @@
   42. [shortest_word](Codewars/7kyu/shortest_word.js)
   43. [complementary_dna](Codewars/7kyu/complementary_dna.js)
   45. [descending_order](Codewars/7kyu/descending_order.js)
+  50. [exes_and_ohs](Codewars/7kyu/exes_and_ohs.js)
