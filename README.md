@@ -41,6 +41,7 @@
   36. [reversed_sequence](Codewars/8kyu/reversed_sequence.js)
   44. [do_i_get_a_bonus](Codewars/8kyu/do_i_get_a_bonus.js)
   46. [dna_to_rna_conversion](Codewars/8kyu/dna_to_rna_conversion.js)
+  47. [alternating_case](Codewars/8kyu/alternating_case.js)
 
 #### 7kyu
 
