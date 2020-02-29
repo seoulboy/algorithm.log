@@ -40,6 +40,7 @@
   35. [abbreviate_a_two_word_name](Codewars/8kyu/abbreviate_a_two_word_name.js)
   36. [reversed_sequence](Codewars/8kyu/reversed_sequence.js)
   44. [do_i_get_a_bonus](Codewars/8kyu/do_i_get_a_bonus.js)
+  46. [dna_to_rna_conversion](Codewars/8kyu/dna_to_rna_conversion.js)
 
 #### 7kyu
 
