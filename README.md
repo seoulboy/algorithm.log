@@ -43,6 +43,7 @@
   46. [dna_to_rna_conversion](Codewars/8kyu/dna_to_rna_conversion.js)
   47. [alternating_case](Codewars/8kyu/alternating_case.js)
   48. [convert_string_to_a_number](Codewars/8kyu/convert_string_to_a_number.js)
+  49. [you_only_need_one_beginner](Codewars/8kyu/you_only_need_one_beginner.js)
 
 #### 7kyu
 
