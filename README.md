@@ -58,3 +58,4 @@
   43. [complementary_dna](Codewars/7kyu/complementary_dna.js)
   45. [descending_order](Codewars/7kyu/descending_order.js)
   50. [exes_and_ohs](Codewars/7kyu/exes_and_ohs.js)
+  53. [jaden_casing_strings](Codewars/7kyu/jaden_casing_strings.js)
