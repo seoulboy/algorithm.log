@@ -46,6 +46,8 @@
   49. [you_only_need_one_beginner](Codewars/8kyu/you_only_need_one_beginner.js)
   51. [transportation_on_vacation](Codewars/8yu/transportation_on_vacation.js)
   52. [remove_exclamation_marks](Codewars/8kyu/remove_exclamation_marks.js)
+  53.
+  [are_you_playing_banjo](Codewars/8kyu/are_you_playing_banjo.js)
 
 #### 7kyu
 
