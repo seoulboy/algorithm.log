@@ -49,6 +49,7 @@
   53.
   [are_you_playing_banjo](Codewars/8kyu/are_you_playing_banjo.js)
   55.[to_square_or_not_to_square](Codewars/8kyu/to_square_or_not_to_square.js)
+
 #### 7kyu
 
   37. [rithm_series_frame_a_phrase_simple](Codewars/7kyu/rithm_series_frame_a_phrase_simple.js)
@@ -61,3 +62,4 @@
   45. [descending_order](Codewars/7kyu/descending_order.js)
   50. [exes_and_ohs](Codewars/7kyu/exes_and_ohs.js)
   54. [jaden_casing_strings](Codewars/7kyu/jaden_casing_strings.js)
+  56. [square_every_digit](Codewars/7kyu/square_every_digit.js)
