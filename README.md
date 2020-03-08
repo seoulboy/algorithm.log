@@ -48,7 +48,7 @@
   52. [remove_exclamation_marks](Codewars/8kyu/remove_exclamation_marks.js)
   53.
   [are_you_playing_banjo](Codewars/8kyu/are_you_playing_banjo.js)
-
+  55.[to_square_or_not_to_square](Codewars/8kyu/to_square_or_not_to_square.js)
 #### 7kyu
 
   37. [rithm_series_frame_a_phrase_simple](Codewars/7kyu/rithm_series_frame_a_phrase_simple.js)
@@ -60,4 +60,4 @@
   43. [complementary_dna](Codewars/7kyu/complementary_dna.js)
   45. [descending_order](Codewars/7kyu/descending_order.js)
   50. [exes_and_ohs](Codewars/7kyu/exes_and_ohs.js)
-  53. [jaden_casing_strings](Codewars/7kyu/jaden_casing_strings.js)
+  54. [jaden_casing_strings](Codewars/7kyu/jaden_casing_strings.js)
