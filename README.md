@@ -47,7 +47,8 @@
 #51 [transportation_on_vacation](Codewars/8yu/transportation_on_vacation.js)  
 #52 [remove_exclamation_marks](Codewars/8kyu/remove_exclamation_marks.js)  
 #53 [are_you_playing_banjo](Codewars/8kyu/are_you_playing_banjo.js)  
-#55 [to_square_or_not_to_square](Codewars/8kyu/to_square_or_not_to_square.js)  
+#55 [to_square_or_not_to_square](Codewars/8kyu/to_square_or_not_to_square.js)
+#57 [the_feast_of_many_beasts](Codewars/8kyu/the_feast_of_many_beasts.js)  
 
 #### 7kyu
 
