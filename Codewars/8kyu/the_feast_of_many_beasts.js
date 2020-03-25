@@ -8,9 +8,9 @@ Write a function feast that takes the animal's name and dish as arguments and re
 Assume that beast and dish are always lowercase strings, and that each has at least two letters. beast and dish may contain hyphens and spaces, but these will not appear at the beginning or end of the string. They will not contain numerals.
 */
 
-// Solution #1 - Mar 2019
+// First Attempt - Mar 2019
 
-// Solution #2 - Mar 2020 
+// Second Attempt - Mar 2020 
 
 function feast(beast, dish) {
   return beast[0] === dish[0] && beast.slice(-1) === dish.slice(-1)
