@@ -1,10 +1,29 @@
-...알고리즘 풀이를 시작한 이후로 세상만사가 알고리즘 풀이 과정으로 보이게 되었습니다.
+### 알고리즘에 대한 잡담
 
-프론트엔드 개발을 공부하던 시절에는 자바스크립트로 풀이를 하였고, 현재 2021년에는 iOS 개발을 공부하면서 스위프트로 풀이를 진행하고 있습니다.
+알고리즘 문제 풀이를 시작한 이후로 세상만사가 알고리즘 풀이 과정으로 보이게 됬다. 디자인 패턴 공부할 때도 세상 모든 것이 디자인 패턴으로 보였는데, 비슷한 증상인 듯하다. 
 
+작년에 웹개발을 공부하던 때는 자바스크립트로 풀이를 했고, 현재 2021년에는 iOS 개발을 공부하면서 스위프트로 풀이를 진행하고 있다.   
 
-[Useful APIs (Swift)](https://www.notion.so/ericimhojang/Useful-APIS-6826b04aef76477cb4c711c3b341bd96)
-[Hacks (Swift)](https://www.notion.so/ericimhojang/Hacks-e2199208a9da43a4bcbfc3025c13929a)
+지금 보니 이곳에 기록하지 않은 알고리즘 문제 풀이가 상당히 많다. 이제부터는 조금 더 착실하게 알고리즘 문제 풀이를 기록해보려고 한다.   
+
+현재는 CodeWars라는 알고리즘 풀이 플랫폼에서 기초를 다지고 있고, 추후에는 LeetCode 혹은 프로그래머스의 문제들도 풀고 기록할 계획이다.  
+
+최근에 본 책에서 읽은 구절이 생각난다. "음악가가 스케일을 연습하는 것과 같이 프로그래머는 알고리즘 문제 풀이를 연습한다"고.  
+
+실력있는 프로그래머가 되려면 알고리즘 작성 연습을 꾸준히 해야한다는 말인 것 같다.  
+
+다행히도 나는 알고리즘 풀이를 어느정도는 즐기는 편이기 때문에 지속할 수 있는 취미로 삼을 수 있을 것 같다.  
+
+내가 작성한 알고리즘이 최고의 알고리즘일 필요는 없다.   
+
+지금은 알고리즘 문제를 하나씩 풀이하면서 배운점과 느낀점을 기록해보는데 집중하자.  
+
+### Tips
+
+[Useful APIs (Swift)](https://www.notion.so/ericimhojang/Useful-APIS-6826b04aef76477cb4c711c3b341bd96)  
+  
+[Hacks (Swift)](https://www.notion.so/ericimhojang/Hacks-e2199208a9da43a4bcbfc3025c13929a)  
+  
 [CodeSnippets (Swift)](https://www.notion.so/ericimhojang/Useful-Code-Snippets-ad88681b5c0c4f908001fc605017fb5c)
 
 ### CodeWars ⚔️
