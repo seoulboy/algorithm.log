@@ -20,6 +20,12 @@
 
 ### Tips
 
+알고리즘을 작성하다가 문법이나 API가 떠오르지 않을때는 코드를 플레이그라운드에서 작성한다.
+
+만약 코딩 문제풀이 혹은 코딩테스트 플랫폼이 복사 및 붙여넣기를 지원하지 않는다면 꽤나 번거롭겠지만, 필요에 따라 사용했을 때 매우 편리했다.
+
+코딩테스트 플랫폼이나 문제풀이 웹사이트의 IDE는 xcode와는 다르게 intellisense 가 탑재되어 있지 않기 때문에 스위프트의 길고 다양한 메서드를 모두 외우기 전까지는 좋은 방법인 것 같다. 
+
 [Useful APIs (Swift)](https://www.notion.so/ericimhojang/Useful-APIS-6826b04aef76477cb4c711c3b341bd96)  
   
 [Hacks (Swift)](https://www.notion.so/ericimhojang/Hacks-e2199208a9da43a4bcbfc3025c13929a)  
@@ -31,6 +37,9 @@
 ##### 8kyu
 
 ##### 7kyu
+#1 [binary_calculator](Codewars/Swift/7kyu/binary_calculator.swift)
+#2 [lost_number_in_number_sequence](Codewars/Swift/7kyu/lost_number_in_number_sequence.swift)
+#3 [partial_word_searching](Codewars/Swift/7kyu/partial_word_searching.swift)
 
 #### JavaScript 🕸
 ##### 8kyu
