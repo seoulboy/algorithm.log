@@ -42,7 +42,7 @@
 #3 [partial_word_searching](Codewars/Swift/7kyu/partial_word_searching.swift)
 #4 [euclidean_distance_in_n_dimensions](Codewars/Swift/7kyu/euclidean_distance_in_n_dimensions.swift)
 #5 [fizz_buzz_cuckoo_clock](Codewars/Swift/7kyu/fizz_buzz_cuckoo_clock.swift)
-
+#6 [balanced_number](Codewars/Swift/7kyu/balanced_number.swift)
 
 #### JavaScript 🕸
 ##### 8kyu
