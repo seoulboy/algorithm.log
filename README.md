@@ -1,8 +1,14 @@
 알고리즘과의 전쟁을 위한 준비과정 ⚔️
 
 ### CodeWars
+#### Swift
 
-#### 8kyu
+##### 8kyu
+
+##### 7kyu
+
+#### JavaScript
+##### 8kyu
 #1 [multiply](Codewars/JavaScript/8kyu/multiply.js)  
 #2 [total_amount_of_points](Codewars/JavaScript/8kyu/total_amount_of_points.js)  
 #3 [opposite_number](Codewars/JavaScript/8kyu/opposite_number.js)  
@@ -50,7 +56,7 @@
 #55 [to_square_or_not_to_square](Codewars/JavaScript/8kyu/to_square_or_not_to_square.js)
 #57 [the_feast_of_many_beasts](Codewars/JavaScript/8kyu/the_feast_of_many_beasts.js)  
 
-#### 7kyu
+##### 7kyu
 
 #37 [rithm_series_frame_a_phrase_simple](Codewars/JavaScript/7kyu/rithm_series_frame_a_phrase_simple.js)  
 #38 [mumbling](Codewars/JavaScript/7kyu/mumbling.js)  
