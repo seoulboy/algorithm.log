@@ -1,13 +1,19 @@
-알고리즘과의 전쟁을 위한 준비과정 ⚔️
+...알고리즘 풀이를 시작한 이후로 세상만사가 알고리즘 풀이 과정으로 보이게 되었습니다.
 
-### CodeWars
-#### Swift
+프론트엔드 개발을 공부하던 시절에는 자바스크립트로 풀이를 하였고, 현재 2021년에는 iOS 개발을 공부하면서 스위프트로 풀이를 진행하고 있습니다.
 
+
+[Useful APIs (Swift)](https://www.notion.so/ericimhojang/Useful-APIS-6826b04aef76477cb4c711c3b341bd96)
+[Hacks (Swift)](https://www.notion.so/ericimhojang/Hacks-e2199208a9da43a4bcbfc3025c13929a)
+[CodeSnippets (Swift)](https://www.notion.so/ericimhojang/Useful-Code-Snippets-ad88681b5c0c4f908001fc605017fb5c)
+
+### CodeWars ⚔️
+#### Swift  🦅
 ##### 8kyu
 
 ##### 7kyu
 
-#### JavaScript
+#### JavaScript 🕸
 ##### 8kyu
 #1 [multiply](Codewars/JavaScript/8kyu/multiply.js)  
 #2 [total_amount_of_points](Codewars/JavaScript/8kyu/total_amount_of_points.js)  
