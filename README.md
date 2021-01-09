@@ -40,7 +40,7 @@
 #1 [binary_calculator](Codewars/Swift/7kyu/binary_calculator.swift)
 #2 [lost_number_in_number_sequence](Codewars/Swift/7kyu/lost_number_in_number_sequence.swift)
 #3 [partial_word_searching](Codewars/Swift/7kyu/partial_word_searching.swift)
-
+#4 [euclidean_distance_in_n_dimensions](Codewars/Swift/7kyu/euclidean_distance_in_n_dimensions.swift)
 #### JavaScript 🕸
 ##### 8kyu
 #1 [multiply](Codewars/JavaScript/8kyu/multiply.js)  
