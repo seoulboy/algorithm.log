@@ -45,6 +45,7 @@
 #6 [balanced_number](Codewars/Swift/7kyu/balanced_number.swift)
 #7 [alphabetical_addition](Codewars/Swift/7kyu/alphabet_addition.swift)
 #8 [linked_lists_move_node](Codewars/Swift/7kyu/linked_lists_move_node.swift)
+#9 [resistor_color_codes](Codewars/Swift/7kyu/resistor_color_codes.swift)
 #### JavaScript 🕸
 ##### 8kyu
 #1 [multiply](Codewars/JavaScript/8kyu/multiply.js)  
