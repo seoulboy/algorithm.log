@@ -16,5 +16,7 @@ func sumOfIntegersInString(_ string: String) -> Int {
     이렇게 하면, 위의 string에서 숫자를 제외한 모든 문자를 separate 할 수 있고, compactMap을 통해 빈 문자열을 없애고, reduce 를 통해 문자열에 있는 숫자의 합을 계산할 수 있다.
 
  Interesting part:
-    - CharacterSet.decimalDigits.inverted 
+    - CharacterSet.decimalDigits.inverted
+    - components(separatedBy separator: CharacterSet) -> [String]
+      - components(separatedBy separator: String) -> [String] 은 알고 있었는데 CharacterSet을 인자로 받는 것이 있다는 건 처음 알게되었다. 이것 또한 스위프트로 문자열 처리를 할때 매우 유용한 API 중 하나인 것 같다.
  */
