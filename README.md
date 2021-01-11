@@ -1,4 +1,4 @@
-### 알고리즘에 대한 잡담
+### 알고리즘에 관한 잡담
 
 알고리즘 문제 풀이를 시작한 이후로 세상만사가 알고리즘 풀이 과정으로 보이게 됬다. 디자인 패턴 공부할 때도 세상 모든 것이 디자인 패턴으로 보였는데, 비슷한 증상인 듯하다. 
 
@@ -46,6 +46,7 @@
 #7 [alphabetical_addition](Codewars/Swift/7kyu/alphabet_addition.swift)
 #8 [linked_lists_move_node](Codewars/Swift/7kyu/linked_lists_move_node.swift)
 #9 [resistor_color_codes](Codewars/Swift/7kyu/resistor_color_codes.swift)
+#10 [sum_of_integers_in_string](Codewars/Swift/7kyu/sum_of_integers_in_string.swift)
 #### JavaScript 🕸
 ##### 8kyu
 #1 [multiply](Codewars/JavaScript/8kyu/multiply.js)  
