@@ -47,6 +47,7 @@
 #8 [linked_lists_move_node](Codewars/Swift/7kyu/linked_lists_move_node.swift)
 #9 [resistor_color_codes](Codewars/Swift/7kyu/resistor_color_codes.swift)
 #10 [sum_of_integers_in_string](Codewars/Swift/7kyu/sum_of_integers_in_string.swift)
+#11 [find_the_nth_digit_of_a_number.swift](Codewars/Swift/7kyu/find_the_nth_digit_of_a_number.swift)
 #### JavaScript 🕸
 ##### 8kyu
 #1 [multiply](Codewars/JavaScript/8kyu/multiply.js)  
