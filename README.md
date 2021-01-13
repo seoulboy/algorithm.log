@@ -48,6 +48,7 @@
 #9 [resistor_color_codes](Codewars/Swift/7kyu/resistor_color_codes.swift)
 #10 [sum_of_integers_in_string](Codewars/Swift/7kyu/sum_of_integers_in_string.swift)
 #11 [find_the_nth_digit_of_a_number.swift](Codewars/Swift/7kyu/find_the_nth_digit_of_a_number.swift)
+#12 [circle_of_numbers.swift](Codewars/Swift/7kyu/circle_of_numbers.swift)
 #### JavaScript 🕸
 ##### 8kyu
 #1 [multiply](Codewars/JavaScript/8kyu/multiply.js)  
