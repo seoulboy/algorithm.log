@@ -52,6 +52,7 @@
 #13 [replace_all_items.swift](Codewars/Swift/7kyu/replace_all_items.swift)
 #14 [jumping_number.swift](Codewars/Swift/7kyu/jumping_number.swift)
 #15 [sum_of_angles.swift](Codewars/Swift/7kyu/sum_of_angles.swift)
+#16 [count_the_digit.swift](Codewars/Swift/7kyu/count_the_digit.swift)
 
 #### JavaScript 🕸
 ##### 8kyu
