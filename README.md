@@ -37,27 +37,27 @@
 ##### 8kyu
 
 ##### 7kyu
-#1 [binary_calculator](Codewars/Swift/7kyu/binary_calculator.swift)
-#2 [lost_number_in_number_sequence](Codewars/Swift/7kyu/lost_number_in_number_sequence.swift)
-#3 [partial_word_searching](Codewars/Swift/7kyu/partial_word_searching.swift)
-#4 [euclidean_distance_in_n_dimensions](Codewars/Swift/7kyu/euclidean_distance_in_n_dimensions.swift)
-#5 [fizz_buzz_cuckoo_clock](Codewars/Swift/7kyu/fizz_buzz_cuckoo_clock.swift)
-#6 [balanced_number](Codewars/Swift/7kyu/balanced_number.swift)
-#7 [alphabetical_addition](Codewars/Swift/7kyu/alphabet_addition.swift)
-#8 [linked_lists_move_node](Codewars/Swift/7kyu/linked_lists_move_node.swift)
-#9 [resistor_color_codes](Codewars/Swift/7kyu/resistor_color_codes.swift)
-#10 [sum_of_integers_in_string](Codewars/Swift/7kyu/sum_of_integers_in_string.swift)
-#11 [find_the_nth_digit_of_a_number.swift](Codewars/Swift/7kyu/find_the_nth_digit_of_a_number.swift)
-#12 [circle_of_numbers.swift](Codewars/Swift/7kyu/circle_of_numbers.swift)
-#13 [replace_all_items.swift](Codewars/Swift/7kyu/replace_all_items.swift)
-#14 [jumping_number.swift](Codewars/Swift/7kyu/jumping_number.swift)
-#15 [sum_of_angles.swift](Codewars/Swift/7kyu/sum_of_angles.swift)
-#16 [count_the_digit.swift](Codewars/Swift/7kyu/count_the_digit.swift)
-#17 [sum_of_all_the_multiples_of_3_or_5](Codewars/Swift/7kyu/sum_of_all_the_multiples_of_3_or_5.swift)
+#1 [binary_calculator](Codewars/Swift/7kyu/binary_calculator.swift)  
+#2 [lost_number_in_number_sequence](Codewars/Swift/7kyu/lost_number_in_number_sequence.swift)  
+#3 [partial_word_searching](Codewars/Swift/7kyu/partial_word_searching.swift)  
+#4 [euclidean_distance_in_n_dimensions](Codewars/Swift/7kyu/euclidean_distance_in_n_dimensions.swift)  
+#5 [fizz_buzz_cuckoo_clock](Codewars/Swift/7kyu/fizz_buzz_cuckoo_clock.swift)  
+#6 [balanced_number](Codewars/Swift/7kyu/balanced_number.swift)  
+#7 [alphabetical_addition](Codewars/Swift/7kyu/alphabet_addition.swift)  
+#8 [linked_lists_move_node](Codewars/Swift/7kyu/linked_lists_move_node.swift)  
+#9 [resistor_color_codes](Codewars/Swift/7kyu/resistor_color_codes.swift)  
+#10 [sum_of_integers_in_string](Codewars/Swift/7kyu/sum_of_integers_in_string.swift)  
+#11 [find_the_nth_digit_of_a_number.swift](Codewars/Swift/7kyu/find_the_nth_digit_of_a_number.swift)  
+#12 [circle_of_numbers.swift](Codewars/Swift/7kyu/circle_of_numbers.swift)  
+#13 [replace_all_items.swift](Codewars/Swift/7kyu/replace_all_items.swift)  
+#14 [jumping_number.swift](Codewars/Swift/7kyu/jumping_number.swift)  
+#15 [sum_of_angles.swift](Codewars/Swift/7kyu/sum_of_angles.swift)  
+#16 [count_the_digit.swift](Codewars/Swift/7kyu/count_the_digit.swift)  
+#17 [sum_of_all_the_multiples_of_3_or_5](Codewars/Swift/7kyu/sum_of_all_the_multiples_of_3_or_5.swift)  
 
 #### 6kyu
 
-#1 [unique_substring_from_joined_strings](Codewars/Swift/6kyu/unique_substring_from_joined_strings.swift)
+#1 [unique_substring_from_joined_strings](Codewars/Swift/6kyu/unique_substring_from_joined_strings.swift)  
 
 #### JavaScript 🕸
 ##### 8kyu
