@@ -55,6 +55,10 @@
 #16 [count_the_digit.swift](Codewars/Swift/7kyu/count_the_digit.swift)
 #17 [sum_of_all_the_multiples_of_3_or_5](Codewars/Swift/7kyu/sum_of_all_the_multiples_of_3_or_5.swift)
 
+#### 6kyu
+
+#1 [unique_substring_from_joined_strings](Codewars/Swift/6kyu/unique_substring_from_joined_strings.swift)
+
 #### JavaScript 🕸
 ##### 8kyu
 #1 [multiply](Codewars/JavaScript/8kyu/multiply.js)  
