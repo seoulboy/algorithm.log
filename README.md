@@ -49,6 +49,8 @@
 #10 [sum_of_integers_in_string](Codewars/Swift/7kyu/sum_of_integers_in_string.swift)
 #11 [find_the_nth_digit_of_a_number.swift](Codewars/Swift/7kyu/find_the_nth_digit_of_a_number.swift)
 #12 [circle_of_numbers.swift](Codewars/Swift/7kyu/circle_of_numbers.swift)
+#13 [replace_all_items.swift](Codewars/Swift/7kyu/replace_all_items.swift)
+
 #### JavaScript 🕸
 ##### 8kyu
 #1 [multiply](Codewars/JavaScript/8kyu/multiply.js)  
