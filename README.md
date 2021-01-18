@@ -57,7 +57,9 @@
 
 #### 6kyu
 
-#1 [unique_substring_from_joined_strings](Codewars/Swift/6kyu/unique_substring_from_joined_strings.swift)  
+#1 [unique_substring_from_joined_strings](Codewars/Swift/6kyu/unique_substring_from_joined_strings.swift)   
+#2 [linked_lists_remove_duplicates.swift](Codewars/Swift/6kyu/linked_lists_remove_duplicates.swift)  
+
 
 #### JavaScript 🕸
 ##### 8kyu
