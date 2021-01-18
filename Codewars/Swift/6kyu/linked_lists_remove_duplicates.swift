@@ -42,12 +42,28 @@ func removeDuplicates(head:Node?) -> Node? {
 
 // solution #2
 
-// write your solution here
+class Node {
+    var data: Int
+    var next: Node?
+    init(_ data: Int) {
+        self.data = data
+    }
+}
+
+func removeDuplicates(head:Node?) -> Node? {
+  guard var node = head else { return nil }
+  while let next = node.next {
+    if node.data == next.data {
+      node.next = next.next
+    } else {
+      node = next
+    }
+  }
+  return head
+}
 
 /*
  How I approached this problem:
- 
- Interesting part:
- 
+    solution 1과 같은 로직이나 변수 사용을 줄여서 더욱 간결하게 만들었다.
  */
 
