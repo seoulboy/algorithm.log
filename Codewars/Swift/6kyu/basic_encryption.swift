@@ -23,7 +23,9 @@ extension StringProtocol {
 
 // solution #2
 
-// write your solution here
+func encrypt(text:String, rule:Int) -> String {
+    String(text.map{ Character(UnicodeScalar( ($0.asciiValue! + UInt32(rule)) % 256 )! ) })
+}
 
 /*
  How I approached this problem:
