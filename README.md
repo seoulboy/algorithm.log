@@ -60,7 +60,8 @@
 #1 [unique_substring_from_joined_strings](Codewars/Swift/6kyu/unique_substring_from_joined_strings.swift)   
 #2 [linked_lists_remove_duplicates](Codewars/Swift/6kyu/linked_lists_remove_duplicates.swift)  
 #3 [basic_encryption](Codewars/Swift/6kyu/basic_encryption.swift)  
-
+#4 [linked_lists_insert_nth_node](Codewars/Swift/6kyu/linked_lists_insert_nth_node.swift)  
+#5 [n-back](Codewars/Swift/6kyu/n-back.swift)
 
 #### JavaScript 🕸
 ##### 8kyu
