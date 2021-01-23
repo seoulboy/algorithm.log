@@ -62,6 +62,7 @@
 #3 [basic_encryption](Codewars/Swift/6kyu/basic_encryption.swift)  
 #4 [linked_lists_insert_nth_node](Codewars/Swift/6kyu/linked_lists_insert_nth_node.swift)  
 #5 [n-back](Codewars/Swift/6kyu/n-back.swift)
+#6 [moves_in_squared_string_IV](Codewars/Swift/6kyu/moves_in_squared_string_IV.swift)
 
 #### JavaScript 🕸
 ##### 8kyu
