@@ -63,6 +63,7 @@
 #4 [linked_lists_insert_nth_node](Codewars/Swift/6kyu/linked_lists_insert_nth_node.swift)  
 #5 [n-back](Codewars/Swift/6kyu/n-back.swift)
 #6 [moves_in_squared_string_IV](Codewars/Swift/6kyu/moves_in_squared_string_IV.swift)
+#7 [linked_lists_iterative_reverse](Codewars/Swift/6kyu/linked_lists_iterative_reverse.swift)
 
 #### JavaScript 🕸
 ##### 8kyu
