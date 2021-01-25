@@ -64,6 +64,7 @@
 #5 [n-back](Codewars/Swift/6kyu/n-back.swift)
 #6 [moves_in_squared_string_IV](Codewars/Swift/6kyu/moves_in_squared_string_IV.swift)
 #7 [linked_lists_iterative_reverse](Codewars/Swift/6kyu/linked_lists_iterative_reverse.swift)
+#8 [good_vs_evil](Codewars/Swift/6kyu/good_vs_evil.swift)
 
 #### JavaScript 🕸
 ##### 8kyu
