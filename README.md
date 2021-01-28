@@ -53,7 +53,8 @@
 #14 [jumping_number.swift](Codewars/Swift/7kyu/jumping_number.swift)  
 #15 [sum_of_angles.swift](Codewars/Swift/7kyu/sum_of_angles.swift)  
 #16 [count_the_digit.swift](Codewars/Swift/7kyu/count_the_digit.swift)  
-#17 [sum_of_all_the_multiples_of_3_or_5](Codewars/Swift/7kyu/sum_of_all_the_multiples_of_3_or_5.swift)  
+#17 [sum_of_all_the_multiples_of_3_or_5](Codewars/Swift/7kyu/sum_of_all_the_multiples_of_3_or_5.swift) 
+#18 [special_number_series_5](Codewars/Swift/7kyu/special_number_series_5.swift)
 
 #### 6kyu
 
