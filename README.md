@@ -56,6 +56,7 @@
 #17 [sum_of_all_the_multiples_of_3_or_5](Codewars/Swift/7kyu/sum_of_all_the_multiples_of_3_or_5.swift) 
 #18 [special_number_series_5](Codewars/Swift/7kyu/special_number_series_5.swift)
 #19 [find_all_non_consecutive_numbers](Codewars/Swift/7kyu/find_all_non_consecutive_numbers.swift)
+#20 [sort_out_the_men_from_boys](Codewars/Swift/7kyu/sort_out_the_men_from_boys.swift)
 
 #### 6kyu
 
