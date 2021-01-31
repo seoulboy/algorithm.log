@@ -57,6 +57,7 @@
 #18 [special_number_series_5](Codewars/Swift/7kyu/special_number_series_5.swift)
 #19 [find_all_non_consecutive_numbers](Codewars/Swift/7kyu/find_all_non_consecutive_numbers.swift)
 #20 [sort_out_the_men_from_boys](Codewars/Swift/7kyu/sort_out_the_men_from_boys.swift)
+#21 [disarium_number_special_numbers_series_3](Codewars/Swift/7kyu/disarium_special_numbers_series_3.swift)
 
 #### 6kyu
 
