@@ -61,6 +61,7 @@
 #22 [extra_perfect_numbers_special_numbers_series_7](Codewars/Swift/7kyu/extra_perfect_numbers_special_numbers_series_7.swift)
 #23 [toleetspeak](Codewars/Swift/7kyu/toleetspeak.swift)
 #24 [linked_lists_get_nth_node](Codewars/Swift/7kyu/linked_lists_get_nth_node.swift)
+#25 [linked_lists_push_build_onetwothree](Codewars/Swift/7kyu/linked_lists_push_build_onetwothree.swift)
 
 #### 6kyu
 
