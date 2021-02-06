@@ -62,6 +62,7 @@
 #23 [toleetspeak](Codewars/Swift/7kyu/toleetspeak.swift)
 #24 [linked_lists_get_nth_node](Codewars/Swift/7kyu/linked_lists_get_nth_node.swift)
 #25 [linked_lists_push_build_onetwothree](Codewars/Swift/7kyu/linked_lists_push_build_onetwothree.swift)
+#26 [counting_in_the_amazon](Codewars/Swift/7kyu/counting_in_the_amazon.swift)
 
 #### 6kyu
 
