@@ -64,6 +64,7 @@
 #25 [linked_lists_push_build_onetwothree](Codewars/Swift/7kyu/linked_lists_push_build_onetwothree.swift)
 #26 [counting_in_the_amazon](Codewars/Swift/7kyu/counting_in_the_amazon.swift)
 #27 [easy_wallpaper](Codewars/Swift/7kyu/easy_wallpaper.swift)
+#28 [moves_in_squared_strings_I](Codewars/Swift/7kyu/moves_in_squared_strings_I.swift)
 
 #### 6kyu
 
