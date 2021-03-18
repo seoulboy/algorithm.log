@@ -32,6 +32,11 @@
   
 [CodeSnippets (Swift)](https://www.notion.so/ericimhojang/Useful-Code-Snippets-ad88681b5c0c4f908001fc605017fb5c)
 
+### HackerRank 🏰
+#### Swift 🐦
+
+#1 [Heaps: Find the Running Median](HackerRank/Heaps_Find_the_Running_Median.swift)
+
 ### CodeWars ⚔️
 #### Swift  🦅
 ##### 8kyu
@@ -65,6 +70,8 @@
 #26 [counting_in_the_amazon](Codewars/Swift/7kyu/counting_in_the_amazon.swift)
 #27 [easy_wallpaper](Codewars/Swift/7kyu/easy_wallpaper.swift)
 #28 [moves_in_squared_strings_I](Codewars/Swift/7kyu/moves_in_squared_strings_I.swift)
+#29 [going_to_the_cinema](Codewars/Swift/7kyu/going_to_the_cinema.swift)
+#30 [correct_the_time-string](Codewars/Swift/7kyu/correct_the_time-string.swift)
 
 #### 6kyu
 
