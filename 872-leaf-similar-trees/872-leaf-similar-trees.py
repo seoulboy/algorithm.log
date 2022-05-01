@@ -6,20 +6,19 @@
 #         self.right = right
 class Solution:
     def leafSimilar(self, root1: Optional[TreeNode], root2: Optional[TreeNode]) -> bool:
-        return self.stackSearch(root1) == self.stackSearch(root2)
+        return self.getLeafValueSequenceOf(root1) == self.getLeafValueSequenceOf(root2)
         
-    
-    def stackSearch(self, node: Optional[TreeNode]) -> [int]:
+    def getLeafValueSequenceOf(self, root: Optional[TreeNode]) -> [int]:
         discovered = []
-        stack = [node]
+        stack = [root]
         while stack:
-            v = stack.pop()
-            if v not in discovered:
-                if v.left is not None:
-                    stack.append(v.left)
-                if v.right is not None:
-                    stack.append(v.right)
-                if v.right is None and v.left is None:
-                    discovered.append(v.val)
+            popped = stack.pop()
+            if popped not in discovered:
+                if popped.left is not None:
+                    stack.append(popped.left)
+                if popped.right is not None:
+                    stack.append(popped.right)
+                if popped.right is None and popped.left is None:
+                    discovered.append(popped.val)
         return discovered
         
