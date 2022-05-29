@@ -12,6 +12,8 @@ class Solution:
             for string in strs:
                 if commonPrefixCount >= len(string):
                     hasCommonPrefix = False
+                    break
+                    
                 hasCommonPrefix = commonPrefix == string[:commonPrefixCount + 1] and hasCommonPrefix
                 
             if hasCommonPrefix:
