@@ -11,6 +11,7 @@ class Solution:
             
             for string in strs:
                 hasCommonPrefix = commonPrefix == string[:commonPrefixCount + 1] and not commonPrefixCount >= len(string)
+                
                 if not hasCommonPrefix: 
                     break
                 
