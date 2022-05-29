@@ -10,11 +10,9 @@ class Solution:
             commonPrefix = strs[0][:commonPrefixCount + 1]
             
             for string in strs:
-                if commonPrefixCount >= len(string):
-                    hasCommonPrefix = False
+                hasCommonPrefix = commonPrefix == string[:commonPrefixCount + 1] and not (commonPrefixCount >= len(string))
+                if not hasCommonPrefix: 
                     break
-                    
-                hasCommonPrefix = commonPrefix == string[:commonPrefixCount + 1] and hasCommonPrefix
                 
             if hasCommonPrefix:
                 commonPrefixCount += 1
