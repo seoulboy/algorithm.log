@@ -7,13 +7,12 @@ class Solution:
             
             for j in range(len(pattern)):
                 char = words[i][j]
-                patternChar = pattern[j]
                 
-                if patternChar in dic.keys():
-                    if dic[patternChar] is not char:
+                if pattern[j] in dic.keys():
+                    if dic[pattern[j]] is not char:
                         break
                 else:
-                    dic[patternChar] = char
+                    dic[pattern[j]] = char
                     
                     if len(dic.values()) is not len(set(dic.values())):
                         break
