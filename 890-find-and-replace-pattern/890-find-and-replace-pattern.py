@@ -6,8 +6,8 @@ class Solution:
             dic = {}
             word = words[i]
             
-            if len(word) != len(pattern):
-                continue
+            # if len(word) != len(pattern):
+            #     continue
             
             for j in range(len(pattern)):
                 char = word[j]
