@@ -20,8 +20,7 @@ class Solution:
                 else:
                     dic[patternChar] = char
                     
-                    values = dic.values()
-                    if len(values) is not len(set(values)):
+                    if len(dic.values()) is not len(set(dic.values())):
                         break
                     
                     
