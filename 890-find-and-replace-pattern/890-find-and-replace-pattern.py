@@ -19,7 +19,7 @@ class Solution:
                 else:
                     dic[patternChar] = char
                     
-                    if len(dic.values()) is not len(set(dic.values())):
+                    if len(dic.values()) != len(set(dic.values())):
                         break
                     
                 if j == len(pattern) - 1:
