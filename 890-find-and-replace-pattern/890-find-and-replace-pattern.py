@@ -6,7 +6,7 @@ class Solution:
             dic = {}
             word = words[i]
             
-            if len(word) is not len(pattern):
+            if len(word) != len(pattern):
                 continue
             
             for j in range(len(pattern)):
@@ -15,7 +15,7 @@ class Solution:
                 print("char: " + char + " pattern char: " + patternChar)
                 
                 if patternChar in dic.keys():
-                    if dic[patternChar] is not char:
+                    if dic[patternChar] != char:
                         break
                 else:
                     dic[patternChar] = char
@@ -23,10 +23,7 @@ class Solution:
                     if len(dic.values()) is not len(set(dic.values())):
                         break
                     
-                    
                 if j == len(pattern) - 1:
                     matchingWords.append(words[i])
-            
-            
         
         return matchingWords
