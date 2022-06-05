@@ -12,7 +12,6 @@ class Solution:
             for j in range(len(pattern)):
                 char = word[j]
                 patternChar = pattern[j]
-                print("char: " + char + " pattern char: " + patternChar)
                 
                 if patternChar in dic.keys():
                     if dic[patternChar] != char:
