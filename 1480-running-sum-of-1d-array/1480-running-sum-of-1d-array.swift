@@ -4,7 +4,7 @@ class Solution {
         var sum = 0
         nums.forEach { 
             sum += $0
-            list.append(sum)
+            list += [sum]
         }
         return list
     }
