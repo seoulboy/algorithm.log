@@ -4,6 +4,6 @@ class Solution:
             if i == 0:
                 nums[i] = num
             else:
-                nums[i] = nums[i - 1] + num
+                nums[i] += nums[i - 1]
         return nums
             
