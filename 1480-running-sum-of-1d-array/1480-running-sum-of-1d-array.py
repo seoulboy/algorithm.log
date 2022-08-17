@@ -4,3 +4,5 @@ class Solution:
                 nums[i] += nums[i - 1]
         return nums
             
+        # time complexity: O(n)
+        # space complexity: O(1)
