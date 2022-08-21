@@ -10,7 +10,6 @@ class Solution:
                 value += "Fizz"
             if isMultipleOf5:
                 value += "Buzz"
-            
             if value == "":
                 value += str(i)
 
