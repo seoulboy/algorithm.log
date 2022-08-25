@@ -7,17 +7,16 @@ class Solution {
             dict.updateValue(num + 1, forKey: letter)
         }
         
-        var bool: Bool = true
         for letter in ransomNote {
             let num = dict[letter, default: 0]
             
             if num > 0 {
                 dict.updateValue(num - 1, forKey: letter)
             } else {
-                bool = false
+                return false
             }
         }
         
-        return bool
+        return true
     }
 }
