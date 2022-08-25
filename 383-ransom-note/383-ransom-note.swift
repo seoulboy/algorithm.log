@@ -10,11 +10,10 @@ class Solution {
         for letter in ransomNote {
             let num = dict[letter, default: 0]
             
-            if num > 0 {
-                dict.updateValue(num - 1, forKey: letter)
-            } else {
+            if num == 0 {
                 return false
             }
+                dict.updateValue(num - 1, forKey: letter)
         }
         
         return true
