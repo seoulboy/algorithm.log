@@ -13,7 +13,8 @@ class Solution {
             if num == 0 {
                 return false
             }
-                dict.updateValue(num - 1, forKey: letter)
+
+            dict.updateValue(num - 1, forKey: letter)
         }
         
         return true
