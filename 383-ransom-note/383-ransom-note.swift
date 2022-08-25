@@ -11,9 +11,7 @@ class Solution {
         }
         
         var bool: Bool = true
-        ransomNote.forEach { letter in
-            print("\(letter)")
-            print("\(dict)")
+        for letter in ransomNote {
             if let num = dict[letter], num > 0 {
                 dict.updateValue(num - 1, forKey: letter)
             } else {
