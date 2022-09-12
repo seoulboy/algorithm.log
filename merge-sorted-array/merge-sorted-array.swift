@@ -25,11 +25,9 @@ class Solution {
             
             if elem1 > elem2 {
                 newArr.append(elem2)
-                print("append elem2: \(elem2), newArr: \(newArr)")
                 idx2 += 1
             } else {
                 newArr.append(elem1)
-                print("append elem1: \(elem1), newArr: \(newArr)")
                 idx1 += 1
             }
             
