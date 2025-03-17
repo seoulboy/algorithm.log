@@ -165,6 +165,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/seoulboy/algorithm.log/tree/master/0067-add-binary) |
 | [2308-divide-array-into-equal-pairs](https://github.com/seoulboy/algorithm.log/tree/master/2308-divide-array-into-equal-pairs) |
 ## Counting
 |  |
@@ -195,13 +196,19 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/seoulboy/algorithm.log/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/seoulboy/algorithm.log/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/seoulboy/algorithm.log/tree/master/0067-add-binary) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/seoulboy/algorithm.log/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/seoulboy/algorithm.log/tree/master/0067-add-binary) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/seoulboy/algorithm.log/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/seoulboy/algorithm.log/tree/master/0792-binary-search) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/seoulboy/algorithm.log/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
