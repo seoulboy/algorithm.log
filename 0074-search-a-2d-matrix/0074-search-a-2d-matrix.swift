@@ -2,6 +2,8 @@ class Solution {
     func searchMatrix(_ matrix: [[Int]], _ target: Int) -> Bool {
         let cols = matrix[0].count, rows = matrix.count
 
+        guard matrix[rows-1][cols-1] >= target else { return false }
+
         var targetRow = [Int]()
 
         for row in matrix where target <= row[cols-1] {
