@@ -152,10 +152,12 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/seoulboy/algorithm.log/tree/master/0001-two-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/seoulboy/algorithm.log/tree/master/2308-divide-array-into-equal-pairs) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/seoulboy/algorithm.log/tree/master/0001-two-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/seoulboy/algorithm.log/tree/master/2308-divide-array-into-equal-pairs) |
 ## Bit Manipulation
 |  |
