@@ -153,6 +153,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/seoulboy/algorithm.log/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/seoulboy/algorithm.log/tree/master/0035-search-insert-position) |
 | [2308-divide-array-into-equal-pairs](https://github.com/seoulboy/algorithm.log/tree/master/2308-divide-array-into-equal-pairs) |
 ## Hash Table
 |  |
@@ -197,4 +198,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/seoulboy/algorithm.log/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/seoulboy/algorithm.log/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
