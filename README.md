@@ -156,6 +156,7 @@
 | [0035-search-insert-position](https://github.com/seoulboy/algorithm.log/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/seoulboy/algorithm.log/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/seoulboy/algorithm.log/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/seoulboy/algorithm.log/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/seoulboy/algorithm.log/tree/master/0215-kth-largest-element-in-an-array) |
 | [0792-binary-search](https://github.com/seoulboy/algorithm.log/tree/master/0792-binary-search) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/seoulboy/algorithm.log/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -217,6 +218,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/seoulboy/algorithm.log/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/seoulboy/algorithm.log/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/seoulboy/algorithm.log/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/seoulboy/algorithm.log/tree/master/0792-binary-search) |
 ## Simulation
 |  |
