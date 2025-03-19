@@ -6,16 +6,16 @@ func longestNiceSubarray(_ nums: [Int]) -> Int {
     
     for i in 0..<nums.count {
         var acc = nums[i]
-        var end = 1
+        var end = 0
         for j in i+1..<nums.count {
             if acc & nums[j] == 0 {
                 acc += nums[j]
-                end += 1 
+                end = j
             } else {
                 break
             }
         }
-        maxCount = max(maxCount, end)
+        maxCount = max(maxCount, end-i+1)
     }
 
     return maxCount
