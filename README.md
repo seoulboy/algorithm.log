@@ -161,6 +161,7 @@
 | [0792-binary-search](https://github.com/seoulboy/algorithm.log/tree/master/0792-binary-search) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/seoulboy/algorithm.log/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/seoulboy/algorithm.log/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/seoulboy/algorithm.log/tree/master/2478-longest-nice-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -174,6 +175,7 @@
 | [0067-add-binary](https://github.com/seoulboy/algorithm.log/tree/master/0067-add-binary) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/seoulboy/algorithm.log/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/seoulboy/algorithm.log/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/seoulboy/algorithm.log/tree/master/2478-longest-nice-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -250,4 +252,8 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/seoulboy/algorithm.log/tree/master/0783-search-in-a-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [2478-longest-nice-subarray](https://github.com/seoulboy/algorithm.log/tree/master/2478-longest-nice-subarray) |
 <!---LeetCode Topics End-->
