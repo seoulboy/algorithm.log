@@ -187,6 +187,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/seoulboy/algorithm.log/tree/master/0094-binary-tree-inorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/seoulboy/algorithm.log/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -195,6 +196,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/seoulboy/algorithm.log/tree/master/0094-binary-tree-inorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/seoulboy/algorithm.log/tree/master/0783-search-in-a-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -244,4 +246,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/seoulboy/algorithm.log/tree/master/0074-search-a-2d-matrix) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/seoulboy/algorithm.log/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
