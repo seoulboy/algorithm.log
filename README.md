@@ -156,6 +156,7 @@
 | [0035-search-insert-position](https://github.com/seoulboy/algorithm.log/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/seoulboy/algorithm.log/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/seoulboy/algorithm.log/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/seoulboy/algorithm.log/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/seoulboy/algorithm.log/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/seoulboy/algorithm.log/tree/master/0215-kth-largest-element-in-an-array) |
 | [0792-binary-search](https://github.com/seoulboy/algorithm.log/tree/master/0792-binary-search) |
@@ -235,6 +236,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/seoulboy/algorithm.log/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/seoulboy/algorithm.log/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -256,4 +258,8 @@
 |  |
 | ------- |
 | [2478-longest-nice-subarray](https://github.com/seoulboy/algorithm.log/tree/master/2478-longest-nice-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/seoulboy/algorithm.log/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
