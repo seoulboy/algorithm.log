@@ -159,6 +159,7 @@
 | [0074-search-a-2d-matrix](https://github.com/seoulboy/algorithm.log/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/seoulboy/algorithm.log/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/seoulboy/algorithm.log/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/seoulboy/algorithm.log/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/seoulboy/algorithm.log/tree/master/0215-kth-largest-element-in-an-array) |
 | [0792-binary-search](https://github.com/seoulboy/algorithm.log/tree/master/0792-binary-search) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/seoulboy/algorithm.log/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -169,6 +170,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/seoulboy/algorithm.log/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/seoulboy/algorithm.log/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/seoulboy/algorithm.log/tree/master/0169-majority-element) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/seoulboy/algorithm.log/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/seoulboy/algorithm.log/tree/master/2308-divide-array-into-equal-pairs) |
 ## Bit Manipulation
@@ -181,6 +183,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/seoulboy/algorithm.log/tree/master/0169-majority-element) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/seoulboy/algorithm.log/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/seoulboy/algorithm.log/tree/master/2308-divide-array-into-equal-pairs) |
 ## Stack
@@ -233,11 +236,13 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/seoulboy/algorithm.log/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/seoulboy/algorithm.log/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/seoulboy/algorithm.log/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/seoulboy/algorithm.log/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/seoulboy/algorithm.log/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
