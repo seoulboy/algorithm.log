@@ -1,19 +1,19 @@
 class Solution {
     func searchInsert(_ nums: [Int], _ target: Int) -> Int {
-        var left = 0, right = nums.count
+        var l = 0, r = nums.count
 
-        while left < right {
-            var mid = left + (right-left)/2
+        while l < r {
+            let m = l + (r-l)/2
 
-            if nums[mid] == target {
-                return mid
-            } else if nums[mid] < target {
-                left = mid + 1
+            if target == nums[m] {
+                return m
+            } else if target > nums[m] {
+                l = m+1
             } else {
-                right = mid
+                r = m
             }
         }
 
-        return left
+        return l
     }
 }
