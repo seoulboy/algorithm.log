@@ -269,4 +269,16 @@
 | ------- |
 | [0027-remove-element](https://github.com/seoulboy/algorithm.log/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/seoulboy/algorithm.log/tree/master/0088-merge-sorted-array) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/seoulboy/algorithm.log/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/seoulboy/algorithm.log/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/seoulboy/algorithm.log/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
