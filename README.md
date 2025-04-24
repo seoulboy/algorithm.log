@@ -160,6 +160,7 @@
 | [0088-merge-sorted-array](https://github.com/seoulboy/algorithm.log/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/seoulboy/algorithm.log/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/seoulboy/algorithm.log/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/seoulboy/algorithm.log/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/seoulboy/algorithm.log/tree/master/0215-kth-largest-element-in-an-array) |
 | [0792-binary-search](https://github.com/seoulboy/algorithm.log/tree/master/0792-binary-search) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/seoulboy/algorithm.log/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -228,6 +229,7 @@
 | [0035-search-insert-position](https://github.com/seoulboy/algorithm.log/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/seoulboy/algorithm.log/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/seoulboy/algorithm.log/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/seoulboy/algorithm.log/tree/master/0209-minimum-size-subarray-sum) |
 | [0792-binary-search](https://github.com/seoulboy/algorithm.log/tree/master/0792-binary-search) |
 ## Simulation
 |  |
@@ -263,6 +265,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/seoulboy/algorithm.log/tree/master/0209-minimum-size-subarray-sum) |
 | [2478-longest-nice-subarray](https://github.com/seoulboy/algorithm.log/tree/master/2478-longest-nice-subarray) |
 ## Two Pointers
 |  |
@@ -281,4 +284,8 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/seoulboy/algorithm.log/tree/master/0969-number-of-recent-calls) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/seoulboy/algorithm.log/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
