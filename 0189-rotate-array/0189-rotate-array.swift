@@ -1,0 +1,20 @@
+class Solution {
+    func rotate(_ nums: inout [Int], _ k: Int) {
+        let l = nums.count
+        if k != l {
+            nums.reverse()
+            reverse(array: &nums, left: 0, right: (k-1)%l)
+            reverse(array: &nums, left: k%l, right: l-1)   
+        }
+    }
+    
+    func reverse(array: inout [Int], left: Int, right: Int) {
+        var l = left
+        var r = right
+        while l < r {
+            array.swapAt(l, r)
+            l += 1
+            r -= 1
+        }
+    }
+}
