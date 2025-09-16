@@ -163,6 +163,7 @@
 | [0189-rotate-array](https://github.com/seoulboy/algorithm.log/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/seoulboy/algorithm.log/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/seoulboy/algorithm.log/tree/master/0215-kth-largest-element-in-an-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/seoulboy/algorithm.log/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/seoulboy/algorithm.log/tree/master/0792-binary-search) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/seoulboy/algorithm.log/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/seoulboy/algorithm.log/tree/master/2308-divide-array-into-equal-pairs) |
@@ -174,6 +175,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/seoulboy/algorithm.log/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/seoulboy/algorithm.log/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/seoulboy/algorithm.log/tree/master/0169-majority-element) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/seoulboy/algorithm.log/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/seoulboy/algorithm.log/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/seoulboy/algorithm.log/tree/master/2308-divide-array-into-equal-pairs) |
 ## Bit Manipulation
@@ -234,6 +236,7 @@
 | [0074-search-a-2d-matrix](https://github.com/seoulboy/algorithm.log/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/seoulboy/algorithm.log/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/seoulboy/algorithm.log/tree/master/0209-minimum-size-subarray-sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/seoulboy/algorithm.log/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/seoulboy/algorithm.log/tree/master/0792-binary-search) |
 ## Simulation
 |  |
@@ -250,6 +253,7 @@
 | [0088-merge-sorted-array](https://github.com/seoulboy/algorithm.log/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/seoulboy/algorithm.log/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/seoulboy/algorithm.log/tree/master/0215-kth-largest-element-in-an-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/seoulboy/algorithm.log/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -278,6 +282,7 @@
 | [0027-remove-element](https://github.com/seoulboy/algorithm.log/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/seoulboy/algorithm.log/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/seoulboy/algorithm.log/tree/master/0189-rotate-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/seoulboy/algorithm.log/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Design
 |  |
 | ------- |
