@@ -4,8 +4,11 @@ class Solution {
         let k = k % l
         if k != l {
             nums.reverse()
-            reverse(array: &nums, left: 0, right: (k-1))
-            reverse(array: &nums, left: k, right: l-1)   
+            // reverse(array: &nums, left: 0, right: (k-1))
+            // reverse(array: &nums, left: k, right: l-1)   
+
+            nums[0..<k].reverse()
+            nums[k..<l].reverse()
         }
     }
     
