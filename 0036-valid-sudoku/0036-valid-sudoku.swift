@@ -1,62 +1,32 @@
 class Solution {
     func isValidSudoku(_ board: [[Character]]) -> Bool {
-        
-        for row in board {
-            if isValidSudoku(row) == false {
-                print("row is Invalid: \(row)")
-                return false
+        let len = 9
+        var rowsMap = Array(repeating: Set<Character>(), count: len)
+        var colsMap = Array(repeating: Set<Character>(), count: len)
+        var subBoxMap = Array(repeating: Array(repeating: Set<Character>(), count: len/3), count: len/3)
+
+            
+        for row in 0..<9 {
+            for col in 0..<9 {
+                let item = board[row][col]
+                
+                if item == "." { continue }
+                
+                if rowsMap[row].contains(item) { return false } 
+                else { rowsMap[row].insert(item) }
+
+                if colsMap[col].contains(item) { return false }
+                else { colsMap[col].insert(item) }
+
+                if subBoxMap[row/3][col/3].contains(item) { return false }
+                else { subBoxMap[row/3][col/3].insert(item) }
             }
         }
-        
-        var columns = [[Character]]()
-        
-        let l = board[0].count
-        
-        for i in 0..<l {
-            var column = [Character]()
-            for j in 0..<l {
-                column.append(board[j][i])
-            }
-            columns.append(column)
-        }
-        
-        for column in columns {
-            if isValidSudoku(column) == false {
-                print("column is invalid: \(column)")
-                return false
-            }
-        }
-        
-        var subBoxes = [[Character]]()
-        for i in 0..<3 {
-            for j in 0..<3 {
-                let subBox = getSubBox(row: i*3, col: j*3, board: board)
-                subBoxes.append(subBox)
-            }
-        }
-        
-        for subBox in subBoxes {
-            if isValidSudoku(subBox) == false {
-                print("subbox is invalid: \(subBox)")
-                return false
-            }
-        }
-        
         return true
     }
-    
-    func isValidSudoku(_ items: [Character]) -> Bool {
-        let filtered = items.filter { $0 != "." }
-        return Set(filtered).count == filtered.count
-    }
-    
-    func getSubBox(row: Int, col: Int, board: [[Character]]) -> [Character] {
-        var subBox = [Character]()
-        for i in row..<row+3 {
-            for j in col..<col+3 {
-                subBox.append(board[i][j])
-            }
-        }
-        return subBox
-    }
+}
+
+struct SubBox: Hashable {
+    let col: Int
+    let row: Int
 }
