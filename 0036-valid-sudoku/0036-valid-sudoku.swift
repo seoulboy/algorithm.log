@@ -25,8 +25,3 @@ class Solution {
         return true
     }
 }
-
-struct SubBox: Hashable {
-    let col: Int
-    let row: Int
-}
