@@ -180,6 +180,7 @@
 | [0036-valid-sudoku](https://github.com/seoulboy/algorithm.log/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/seoulboy/algorithm.log/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/seoulboy/algorithm.log/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/seoulboy/algorithm.log/tree/master/0387-first-unique-character-in-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/seoulboy/algorithm.log/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/seoulboy/algorithm.log/tree/master/2308-divide-array-into-equal-pairs) |
 ## Bit Manipulation
@@ -193,6 +194,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/seoulboy/algorithm.log/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/seoulboy/algorithm.log/tree/master/0387-first-unique-character-in-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/seoulboy/algorithm.log/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/seoulboy/algorithm.log/tree/master/2308-divide-array-into-equal-pairs) |
 ## Stack
@@ -233,6 +235,7 @@
 | [0013-roman-to-integer](https://github.com/seoulboy/algorithm.log/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/seoulboy/algorithm.log/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/seoulboy/algorithm.log/tree/master/0067-add-binary) |
+| [0387-first-unique-character-in-a-string](https://github.com/seoulboy/algorithm.log/tree/master/0387-first-unique-character-in-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/seoulboy/algorithm.log/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Binary Search
 |  |
@@ -298,6 +301,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/seoulboy/algorithm.log/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/seoulboy/algorithm.log/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
