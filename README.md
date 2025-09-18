@@ -236,6 +236,7 @@
 | [0013-roman-to-integer](https://github.com/seoulboy/algorithm.log/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/seoulboy/algorithm.log/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/seoulboy/algorithm.log/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/seoulboy/algorithm.log/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/seoulboy/algorithm.log/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/seoulboy/algorithm.log/tree/master/0387-first-unique-character-in-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/seoulboy/algorithm.log/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -294,6 +295,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/seoulboy/algorithm.log/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/seoulboy/algorithm.log/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/seoulboy/algorithm.log/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/seoulboy/algorithm.log/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/seoulboy/algorithm.log/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/seoulboy/algorithm.log/tree/master/0350-intersection-of-two-arrays-ii) |
