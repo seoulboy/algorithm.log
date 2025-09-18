@@ -1,16 +1,13 @@
 class Solution {
     func isAnagram(_ s: String, _ t: String) -> Bool {
-        var s = Array(s.unicodeScalars)
-        var t = Array(t.unicodeScalars)
-        
         var a = Array(repeating: 0, count: 26)
         
-        for char in s {
+        for char in Array(s.unicodeScalars) {
             let index = Int(char.value) - 97
             a[index] += 1 
         }
         
-        for char in t {
+        for char in Array(t.unicodeScalars) {
             let index = Int(char.value) - 97
             a[index] -= 1 
         }
