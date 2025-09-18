@@ -179,6 +179,7 @@
 | [0013-roman-to-integer](https://github.com/seoulboy/algorithm.log/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/seoulboy/algorithm.log/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/seoulboy/algorithm.log/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/seoulboy/algorithm.log/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/seoulboy/algorithm.log/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/seoulboy/algorithm.log/tree/master/0387-first-unique-character-in-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/seoulboy/algorithm.log/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -235,6 +236,7 @@
 | [0013-roman-to-integer](https://github.com/seoulboy/algorithm.log/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/seoulboy/algorithm.log/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/seoulboy/algorithm.log/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/seoulboy/algorithm.log/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/seoulboy/algorithm.log/tree/master/0387-first-unique-character-in-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/seoulboy/algorithm.log/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Binary Search
@@ -261,6 +263,7 @@
 | [0088-merge-sorted-array](https://github.com/seoulboy/algorithm.log/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/seoulboy/algorithm.log/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/seoulboy/algorithm.log/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/seoulboy/algorithm.log/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/seoulboy/algorithm.log/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Heap (Priority Queue)
 |  |
