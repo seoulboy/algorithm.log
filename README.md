@@ -163,6 +163,7 @@
 | [0162-find-peak-element](https://github.com/seoulboy/algorithm.log/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/seoulboy/algorithm.log/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/seoulboy/algorithm.log/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/seoulboy/algorithm.log/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/seoulboy/algorithm.log/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/seoulboy/algorithm.log/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/seoulboy/algorithm.log/tree/master/0283-move-zeroes) |
@@ -229,6 +230,7 @@
 | [0066-plus-one](https://github.com/seoulboy/algorithm.log/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/seoulboy/algorithm.log/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/seoulboy/algorithm.log/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/seoulboy/algorithm.log/tree/master/0204-count-primes) |
 ## String
 |  |
 | ------- |
@@ -322,4 +324,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/seoulboy/algorithm.log/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/seoulboy/algorithm.log/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/seoulboy/algorithm.log/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
