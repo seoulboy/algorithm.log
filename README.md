@@ -231,6 +231,7 @@
 | [0048-rotate-image](https://github.com/seoulboy/algorithm.log/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/seoulboy/algorithm.log/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/seoulboy/algorithm.log/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/seoulboy/algorithm.log/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/seoulboy/algorithm.log/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/seoulboy/algorithm.log/tree/master/0204-count-primes) |
 ## String
@@ -338,5 +339,10 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/seoulboy/algorithm.log/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/seoulboy/algorithm.log/tree/master/0118-pascals-triangle) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/seoulboy/algorithm.log/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
