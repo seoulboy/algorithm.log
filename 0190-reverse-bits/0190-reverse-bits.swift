@@ -7,8 +7,8 @@ class Solution {
             r = r << 1
             if n > 0 {
                 r += n & 1
+                n = n >> 1
             }
-            n = n >> 1
         }
 
         return r
