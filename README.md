@@ -190,6 +190,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/seoulboy/algorithm.log/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/seoulboy/algorithm.log/tree/master/0190-reverse-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/seoulboy/algorithm.log/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/seoulboy/algorithm.log/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/seoulboy/algorithm.log/tree/master/2478-longest-nice-subarray) |
@@ -261,6 +262,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/seoulboy/algorithm.log/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/seoulboy/algorithm.log/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/seoulboy/algorithm.log/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
