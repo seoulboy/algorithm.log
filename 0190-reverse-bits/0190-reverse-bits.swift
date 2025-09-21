@@ -1,16 +1,11 @@
 class Solution {
     func reverseBits(_ n: Int) -> Int {
-        var r = 0
-
-        var n = n
-        for _ in 0..<32 {
-            r = r << 1
-            if n > 0 {
-                r += n & 1
-                n = n >> 1
-            }
+        var result = 0
+        
+        for i in 0..<31 {
+            let bit = (n >> i) & 1
+            result = result | bit << (31-i)
         }
-
-        return r
+        return result
     }
 }
