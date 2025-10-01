@@ -1,22 +1,16 @@
 class Solution {
     func rotate(_ nums: inout [Int], _ k: Int) {
-        let l = nums.count
-        let k = k % l
-        if k != l {
-            nums.reverse()
-            // reverse(array: &nums, left: 0, right: (k-1))
-            // reverse(array: &nums, left: k, right: l-1)   
-
-            nums[0..<k].reverse()
-            nums[k..<l].reverse()
-        }
+        let k = k % nums.count
+        let n = nums.count
+        reverse(&nums, l: 0, r: n-1)
+        reverse(&nums, l: 0, r: k-1)
+        reverse(&nums, l: k, r: n-1) 
     }
     
-    func reverse(array: inout [Int], left: Int, right: Int) {
-        var l = left
-        var r = right
+    func reverse(_ arr: inout [Int], l: Int, r: Int) {
+        var l = l, r = r
         while l < r {
-            array.swapAt(l, r)
+            arr.swapAt(l,r)
             l += 1
             r -= 1
         }
